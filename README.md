@@ -3,12 +3,6 @@ Let's imagine that we have a fruit store. Every day in the store, there are a nu
 information about which is recorded in a file during the day.
 The current input file is sent to the program in CSV format (it is recommended to use standard libraries for parsing).
 
-Your tasks are:
-- read data from the CSV file
-- process these data 
-- generate a report based on processed data
-- write a report to a new CSV file
-
 There are four activities at the store:
 ```text
     b - balance, the remnants of fruits at the beginning of the working day
